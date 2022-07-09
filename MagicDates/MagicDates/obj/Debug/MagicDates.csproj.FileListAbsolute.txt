@@ -1,0 +1,10 @@
+C:\Users\Garavel\Desktop\Sluiter\MagicDates\MagicDates\bin\Debug\MagicDates.exe.config
+C:\Users\Garavel\Desktop\Sluiter\MagicDates\MagicDates\bin\Debug\MagicDates.exe
+C:\Users\Garavel\Desktop\Sluiter\MagicDates\MagicDates\bin\Debug\MagicDates.pdb
+C:\Users\Garavel\Desktop\Sluiter\MagicDates\MagicDates\obj\Debug\MagicDates.csprojAssemblyReference.cache
+C:\Users\Garavel\Desktop\Sluiter\MagicDates\MagicDates\obj\Debug\MagicDates.Form1.resources
+C:\Users\Garavel\Desktop\Sluiter\MagicDates\MagicDates\obj\Debug\MagicDates.Properties.Resources.resources
+C:\Users\Garavel\Desktop\Sluiter\MagicDates\MagicDates\obj\Debug\MagicDates.csproj.GenerateResource.cache
+C:\Users\Garavel\Desktop\Sluiter\MagicDates\MagicDates\obj\Debug\MagicDates.csproj.CoreCompileInputs.cache
+C:\Users\Garavel\Desktop\Sluiter\MagicDates\MagicDates\obj\Debug\MagicDates.exe
+C:\Users\Garavel\Desktop\Sluiter\MagicDates\MagicDates\obj\Debug\MagicDates.pdb
