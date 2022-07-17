@@ -1,0 +1,10 @@
+C:\Users\Garavel\Desktop\c#MyName\SimpleWFA\CarShopGUI\CarShopGUI\bin\Debug\CarShopGUI.exe.config
+C:\Users\Garavel\Desktop\c#MyName\SimpleWFA\CarShopGUI\CarShopGUI\bin\Debug\CarShopGUI.exe
+C:\Users\Garavel\Desktop\c#MyName\SimpleWFA\CarShopGUI\CarShopGUI\bin\Debug\CarShopGUI.pdb
+C:\Users\Garavel\Desktop\c#MyName\SimpleWFA\CarShopGUI\CarShopGUI\obj\Debug\CarShopGUI.csprojAssemblyReference.cache
+C:\Users\Garavel\Desktop\c#MyName\SimpleWFA\CarShopGUI\CarShopGUI\obj\Debug\CarShopGUI.Form1.resources
+C:\Users\Garavel\Desktop\c#MyName\SimpleWFA\CarShopGUI\CarShopGUI\obj\Debug\CarShopGUI.Properties.Resources.resources
+C:\Users\Garavel\Desktop\c#MyName\SimpleWFA\CarShopGUI\CarShopGUI\obj\Debug\CarShopGUI.csproj.GenerateResource.cache
+C:\Users\Garavel\Desktop\c#MyName\SimpleWFA\CarShopGUI\CarShopGUI\obj\Debug\CarShopGUI.csproj.CoreCompileInputs.cache
+C:\Users\Garavel\Desktop\c#MyName\SimpleWFA\CarShopGUI\CarShopGUI\obj\Debug\CarShopGUI.exe
+C:\Users\Garavel\Desktop\c#MyName\SimpleWFA\CarShopGUI\CarShopGUI\obj\Debug\CarShopGUI.pdb
