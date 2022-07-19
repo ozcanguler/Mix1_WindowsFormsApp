@@ -1,0 +1,10 @@
+C:\Users\Garavel\Desktop\Sluiter\ListOfFriends\Loan Calculator\bin\Debug\Loan Calculator.exe.config
+C:\Users\Garavel\Desktop\Sluiter\ListOfFriends\Loan Calculator\bin\Debug\Loan Calculator.exe
+C:\Users\Garavel\Desktop\Sluiter\ListOfFriends\Loan Calculator\bin\Debug\Loan Calculator.pdb
+C:\Users\Garavel\Desktop\Sluiter\ListOfFriends\Loan Calculator\obj\Debug\Loan_Calculator.Form1.resources
+C:\Users\Garavel\Desktop\Sluiter\ListOfFriends\Loan Calculator\obj\Debug\Loan_Calculator.Properties.Resources.resources
+C:\Users\Garavel\Desktop\Sluiter\ListOfFriends\Loan Calculator\obj\Debug\Loan Calculator.csproj.GenerateResource.cache
+C:\Users\Garavel\Desktop\Sluiter\ListOfFriends\Loan Calculator\obj\Debug\Loan Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Garavel\Desktop\Sluiter\ListOfFriends\Loan Calculator\obj\Debug\Loan Calculator.exe
+C:\Users\Garavel\Desktop\Sluiter\ListOfFriends\Loan Calculator\obj\Debug\Loan Calculator.pdb
+C:\Users\Garavel\Desktop\Sluiter\ListOfFriends\Loan Calculator\obj\Debug\Loan Calculator.csprojAssemblyReference.cache

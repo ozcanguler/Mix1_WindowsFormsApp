@@ -1,0 +1,10 @@
+C:\Users\Garavel\Desktop\Sluiter\ListOfFriends\Square Calculator\bin\Debug\Square Calculator.exe.config
+C:\Users\Garavel\Desktop\Sluiter\ListOfFriends\Square Calculator\bin\Debug\Square Calculator.exe
+C:\Users\Garavel\Desktop\Sluiter\ListOfFriends\Square Calculator\bin\Debug\Square Calculator.pdb
+C:\Users\Garavel\Desktop\Sluiter\ListOfFriends\Square Calculator\obj\Debug\Square Calculator.csprojAssemblyReference.cache
+C:\Users\Garavel\Desktop\Sluiter\ListOfFriends\Square Calculator\obj\Debug\Square_Calculator.Form1.resources
+C:\Users\Garavel\Desktop\Sluiter\ListOfFriends\Square Calculator\obj\Debug\Square_Calculator.Properties.Resources.resources
+C:\Users\Garavel\Desktop\Sluiter\ListOfFriends\Square Calculator\obj\Debug\Square Calculator.csproj.GenerateResource.cache
+C:\Users\Garavel\Desktop\Sluiter\ListOfFriends\Square Calculator\obj\Debug\Square Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Garavel\Desktop\Sluiter\ListOfFriends\Square Calculator\obj\Debug\Square Calculator.exe
+C:\Users\Garavel\Desktop\Sluiter\ListOfFriends\Square Calculator\obj\Debug\Square Calculator.pdb

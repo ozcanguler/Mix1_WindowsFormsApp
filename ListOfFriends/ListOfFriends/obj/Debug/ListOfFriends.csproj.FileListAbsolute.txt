@@ -1,0 +1,10 @@
+C:\Users\Garavel\Desktop\Sluiter\ListOfFriends\ListOfFriends\bin\Debug\ListOfFriends.exe.config
+C:\Users\Garavel\Desktop\Sluiter\ListOfFriends\ListOfFriends\bin\Debug\ListOfFriends.exe
+C:\Users\Garavel\Desktop\Sluiter\ListOfFriends\ListOfFriends\bin\Debug\ListOfFriends.pdb
+C:\Users\Garavel\Desktop\Sluiter\ListOfFriends\ListOfFriends\obj\Debug\ListOfFriends.csprojAssemblyReference.cache
+C:\Users\Garavel\Desktop\Sluiter\ListOfFriends\ListOfFriends\obj\Debug\ListOfFriends.Form1.resources
+C:\Users\Garavel\Desktop\Sluiter\ListOfFriends\ListOfFriends\obj\Debug\ListOfFriends.Properties.Resources.resources
+C:\Users\Garavel\Desktop\Sluiter\ListOfFriends\ListOfFriends\obj\Debug\ListOfFriends.csproj.GenerateResource.cache
+C:\Users\Garavel\Desktop\Sluiter\ListOfFriends\ListOfFriends\obj\Debug\ListOfFriends.csproj.CoreCompileInputs.cache
+C:\Users\Garavel\Desktop\Sluiter\ListOfFriends\ListOfFriends\obj\Debug\ListOfFriends.exe
+C:\Users\Garavel\Desktop\Sluiter\ListOfFriends\ListOfFriends\obj\Debug\ListOfFriends.pdb
