@@ -1,0 +1,10 @@
+C:\Users\Garavel\Desktop\c#MyName\SimpleWFA\ChessBoardGUI\ChessBoardGUI\bin\Debug\ChessBoardGUI.exe.config
+C:\Users\Garavel\Desktop\c#MyName\SimpleWFA\ChessBoardGUI\ChessBoardGUI\bin\Debug\ChessBoardGUI.exe
+C:\Users\Garavel\Desktop\c#MyName\SimpleWFA\ChessBoardGUI\ChessBoardGUI\bin\Debug\ChessBoardGUI.pdb
+C:\Users\Garavel\Desktop\c#MyName\SimpleWFA\ChessBoardGUI\ChessBoardGUI\obj\Debug\ChessBoardGUI.csprojAssemblyReference.cache
+C:\Users\Garavel\Desktop\c#MyName\SimpleWFA\ChessBoardGUI\ChessBoardGUI\obj\Debug\ChessBoardGUI.Form1.resources
+C:\Users\Garavel\Desktop\c#MyName\SimpleWFA\ChessBoardGUI\ChessBoardGUI\obj\Debug\ChessBoardGUI.Properties.Resources.resources
+C:\Users\Garavel\Desktop\c#MyName\SimpleWFA\ChessBoardGUI\ChessBoardGUI\obj\Debug\ChessBoardGUI.csproj.GenerateResource.cache
+C:\Users\Garavel\Desktop\c#MyName\SimpleWFA\ChessBoardGUI\ChessBoardGUI\obj\Debug\ChessBoardGUI.csproj.CoreCompileInputs.cache
+C:\Users\Garavel\Desktop\c#MyName\SimpleWFA\ChessBoardGUI\ChessBoardGUI\obj\Debug\ChessBoardGUI.exe
+C:\Users\Garavel\Desktop\c#MyName\SimpleWFA\ChessBoardGUI\ChessBoardGUI\obj\Debug\ChessBoardGUI.pdb
